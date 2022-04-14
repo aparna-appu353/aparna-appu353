@@ -44,5 +44,3 @@ jobs:
           mvn --version
           gradle --version
           ant --version
-          ant --version
-          echo
